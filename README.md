@@ -1,1 +1,3 @@
-![VampLife-ALA](https://media.giphy.com/media/ycfmlP8MTY0KT6sbDL/giphy.gif)
+<p align="center">
+  <img src="gif.gif" width="500" />
+</p>

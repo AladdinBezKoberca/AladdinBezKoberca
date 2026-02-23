@@ -1,1 +1,1 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![VampLife-ALA](https://media.giphy.com/media/ycfmlP8MTY0KT6sbDL/giphy.gif)
